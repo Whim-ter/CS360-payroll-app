@@ -41,14 +41,19 @@ We, the developers, recognized the need for an integrated time management system
 ## Meetings:
 | Date and Time | Location | Argend | Alexander | Chris C | Mike | Ralph | Emani |
 | :------------ | :------- | :----: | :-------: | :-----: | :--: | :---: | :---: |
-|0/00/00|Higgins|X|X|X|X|X|X|
-|0/00/00|Higgins|X|X|X|X|X|X|
-|0/00/00|Higgins|X|X|X|X|X|X|
-|0/00/00|Higgins|X|X|X|X|X|X|
-|0/00/00|Higgins|X|X|X|X|X|X|
-|0/00/00|Higgins|X|X|X|X|X|X|
-|0/00/00|Higgins|X|X|X|X|X|X|
-|0/00/00|Higgins|X|X|X|X|X|X|
+|09/14 - 10:45 AM|Higgins|X|X|X|X|X|X|
+|09/18 - 10:45 AM|Higgins|X|X|X|X|X|X|
+|09/21 - 10:45 AM|Higgins|X|X|X|X|X|X|
+|09/22 - 1:45 PM|Higgins|?|?|?|?|?|?|
+|09/25 - 10:45 AM|Higgins|X|X|X|X|X|X|
+|09/28 - 10:45 AM|Higgins|X|X|X|X|X|X|
+|10/02 - 10:45 AM|Higgins|X|X|X|X|X|X|
+|10/05 - 10:45 AM|Higgins|X|X|X|X|X|X|
+|10/09 - 10:45 AM|Higgins|?|?|?|?|?|?|
+|10/12 - 10:45 AM|Higgins|?|?|?|?|?|?|
+|10/16 - 10:45 AM|Higgins|?|?|?|?|?|?|
+|10/19 - 10:45 AM|Higgins|?|?|?|?|?|?|
+|10/23 - 10:45 AM|Higgins|?|?|?|?|?|?|
 
 ## Team Role Assignments
 |Effective Date| 0/00/00 |
